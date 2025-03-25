@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Mar 2025 15:46:20 at https://aa-topanews.github.io/kangenews/Bambang-Bangkit-Kembali-di-Kangenwin-5-Pola-Menang-Maksimal-220-Juta-di-Sugar-Rush-dengan-Perkalian-x550.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aa-topanews.github.io/kangenews/Bambang-Bangkit-Kembali-di-Kangenwin-5-Pola-Menang-Maksimal-220-Juta-di-Sugar-Rush-dengan-Perkalian-x550.html -O1 "C:\My Web Sites\Maret\16 Maret\4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 6 links scanned, 5 files written (852203 bytes overall) [786048 bytes received at 262016 bytes/sec], 105434 bytes transferred using HTTP compression in 2 files, ratio 27%, 1.2 requests per connection
+(No errors, 0 warnings, 0 messages)
